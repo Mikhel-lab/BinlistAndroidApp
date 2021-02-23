@@ -1,0 +1,14 @@
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\bin\Debug\netstandard2.0\BinlistAndroidApp.deps.json
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\bin\Debug\netstandard2.0\BinlistAndroidApp.dll
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\bin\Debug\netstandard2.0\ref\BinlistAndroidApp.dll
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\bin\Debug\netstandard2.0\BinlistAndroidApp.pdb
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.csprojAssemblyReference.cache
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\MajorPage.xaml.g.cs
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.AssemblyInfoInputs.cache
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.AssemblyInfo.cs
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.csproj.CoreCompileInputs.cache
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.dll
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\ref\BinlistAndroidApp.dll
+C:\Users\SDSD\source\repos\BinlistAndroidApp\BinlistAndroidApp\obj\Debug\netstandard2.0\BinlistAndroidApp.pdb

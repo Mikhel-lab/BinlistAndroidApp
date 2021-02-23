@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 xmlns:vm="clr-namespace:BinlistAndroidApp.ViewModel"
+			 x:Class="BinlistAndroidApp.MajorPage">
+	<ContentPage.BindingContext>
+		<vm:BinlistResponseViewModel x:Name="vm"/>
+	</ContentPage.BindingContext>
+
+	<ContentPage.Content>
+		<StackLayout>
+			<Entry x:Name="cardNumber" TextChanged="cardNumber_TextChanged"/>
+			<ListView ItemsSource="{Binding responsemodels}">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<StackLayout HorizontalOptions="FillAndExpand">
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="scheme" Grid.Column="0"/>
+									<Label Text="{Binding scheme}" BindingContext="{Binding schema}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="prepaid" Grid.Column="0"/>
+									<Label Text="{Binding prepaid}" BindingContext="{Binding prepaid}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="type" Grid.Column="0"/>
+									<Label Text="{Binding type}" BindingContext="{Binding type}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="country" Grid.Column="0"/>
+									<Label Text="{Binding country}" BindingContext="{Binding country}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="bank" Grid.Column="0"/>
+									<Label Text="{Binding bank}" BindingContext="{Binding bank}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+							<Grid ColumnDefinitions="*,*">
+								<Grid>
+									<Label Text="brand" Grid.Column="0"/>
+									<Label Text="{Binding brand}" BindingContext="{Binding brand}" Grid.Column="1"/>
+
+								</Grid>
+							</Grid>
+						</StackLayout>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+
+		</StackLayout>
+		
+	</ContentPage.Content>
+
+	  
+</ContentPage>
